@@ -1,0 +1,46 @@
+# Data: never commit raw or processed data
+data/raw/
+data/processed/
+research/raw/**/*.pdf
+
+# Experiment scratch
+experiments/runs/
+mlruns/
+*.ckpt
+*.pt
+*.onnx
+*.gguf
+*.safetensors
+
+# Media: host large files elsewhere and link them
+*.mp4
+*.mov
+*.pptx
+*.key
+
+# Secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key.json
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.ipynb_checkpoints/
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
