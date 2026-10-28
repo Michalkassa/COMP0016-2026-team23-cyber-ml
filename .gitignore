@@ -1,10 +1,8 @@
 # Data: never commit raw or processed data
 data/raw/
 data/processed/
-research/raw/**/*.pdf
 
 # Experiment scratch
-experiments/runs/
 mlruns/
 *.ckpt
 *.pt

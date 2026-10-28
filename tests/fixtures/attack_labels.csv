@@ -1,3 +1,0 @@
-ban_time,unban_time,ip_id,jail,category
-2026-09-06T00:11:06,2026-09-06T00:21:04,ip_a,apache-404-scan,missing_page_scan
-2026-09-06T00:25:00,still_banned_at_export,ip_c,recidive,repeat_offender_escalation

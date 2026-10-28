@@ -1,6 +1,0 @@
-timestamp,ip_id,method,path,protocol,status,bytes,referrer,user_agent,ip_ever_flagged_by_fail2ban
-2026-09-06T00:05:00,ip_a,GET,/wp-login.php,HTTP/1.1,404,100,-,bot,True
-2026-09-06T00:12:00,ip_a,GET,/admin,HTTP/1.1,403,100,-,bot,True
-2026-09-06T00:30:00,ip_a,GET,/,HTTP/1.1,200,100,-,bot,True
-2026-09-06T00:12:00,ip_b,GET,/,HTTP/1.1,200,100,-,browser,False
-2026-09-20T09:00:00,ip_c,GET,/xmlrpc.php,HTTP/1.1,403,100,-,bot,True

@@ -9,5 +9,5 @@ Closes # · Work package: WP-
 - [ ] Tests added / updated, `pytest` and `ruff check .` pass
 - [ ] README / docs updated if behaviour or set-up changed
 - [ ] No data, secrets or large binaries committed
-- [ ] Material AI assistance recorded in `docs/06-governance/ai-usage-log.md`
-- [ ] Contribution logged in `docs/01-team/contributions.md`
+- [ ] Material AI assistance recorded in `LOG.md`
+- [ ] Contribution logged in `LOG.md`
