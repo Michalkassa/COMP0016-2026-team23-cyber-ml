@@ -11,26 +11,29 @@ Benchmark a tabular foundation model (TabPFN) against standard detectors on secu
 
 | File | Purpose |
 |---|---|
-| [PROPOSAL.md](PROPOSAL.md) | What we propose: scope, requirements, questions for the client |
-| [LOG.md](LOG.md) | Meetings, weekly progress, decisions, risks, contributions, AI use |
-| [TEMPLATES.md](TEMPLATES.md) | Minutes, work package, video, report |
-| [data/DATACARD-wendover.md](data/DATACARD-wendover.md) | Dataset |
+| [SPECIFICATION.md](SPECIFICATION.md) | COMP0016 project specification: scope, requirements, partner, constraints |
+| [LOG.md](LOG.md) | Meetings, work packages, builds and videos, decisions, risks, contributions, AI use |
+| [TEMPLATES.md](TEMPLATES.md) | Minutes, work package, build, video, website report |
+| [DATACARD-wendover.md](anomaly-detection/data/DATACARD-wendover.md) | Dataset |
 
 Client brief and research wiki: [ucl-cybersecurity-ml](https://github.com/elikling/ucl-cybersecurity-ml).
 
 ## Timeline
 
+Every two weeks: runnable build demoed to the client. Monthly: progress video to the supervisor.
+
 | When | Do | Graded |
 |---|---|---|
 | ✅ 27 Oct | Client introduction, initial ideas and requirements | |
-| **→ 9 Nov 16:00** | Team agrees [proposal](PROPOSAL.md) → email client → requirements sealed -> Video | |
+| **→ 9 Nov 16:00** | Team agrees [specification](SPECIFICATION.md) → email client → requirements sealed → video | |
 | Nov | Submit requirements & design | **5%** |
 | Nov–Dec | Data + baselines + TabPFN + agent v1 → **Prototype 1** | |
+| Jan, term 2 week 1 | Prototype 1 demoed to client | |
 | 22 Jan | Elevator pitch | **5%** |
-| Jan–Feb | full benchmark, agent evaluation, Azure demo → **Prototype 2** | |
-| 12 Mar | Development stops | |
+| Jan–Feb | Full benchmark, agent evaluation, Azure demo → **Prototype 2**; IP and GDPR update | |
+| 12 Mar | Development stops; testing, deployment, hand-over materials | |
 | 16 Mar | Showcase | |
-| 20 Mar | Client hand-over | |
+| 20 Mar | Website report finished; client hand-over | |
 | **24 Mar 16:00** | Submit website report + system artefacts | **40% + 50%** |
 
 

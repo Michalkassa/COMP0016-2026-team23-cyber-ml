@@ -10,4 +10,4 @@ Does TabPFN find malicious log activity better than standard detectors?
 | 4. Freeze protocol | Metrics and thresholds fixed before test |
 | 5. Evaluate | Recall at agreed false-alert rate, PR-AUC, uncertainty, compute cost |
 
-Data: [../data](../data/DATACARD-wendover.md) (`../scripts/fetch_data.sh`).
+Data: [DATACARD-wendover.md](data/DATACARD-wendover.md).
