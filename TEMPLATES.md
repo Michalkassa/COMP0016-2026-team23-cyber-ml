@@ -32,7 +32,9 @@ Email to the client: "Hi, we would like to update you on the next two weeks: WP-
 Tag build-YYYY-MM-DD · What's new · How to run · Known issues · Demoed to / feedback
 ```
 
-## Monthly video (≤ 5 min, every member speaks)
+## Monthly video
+
+Up to 5 minutes; every member speaks.
 
 1. Where we are against the timeline
 2. Demo of the latest build
