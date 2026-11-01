@@ -35,9 +35,9 @@ Every two weeks: runnable build demoed to the client. Monthly: progress video to
 |---|---|---|---|
 | ✅ 27 Oct | Client introduction, initial ideas and requirements | [Meetings](LOG.md#meetings-and-weekly-progress) | |
 | **→ Now** | Team drafts the requirements | [Requirements](SPECIFICATION.md#detailed-requirements) | |
-| Before 9 Nov | Email requirements to the client for approval | [Specification](SPECIFICATION.md) | |
-| **9 Nov 16:00** | Client approves → requirements sealed (approval email logged) | [Decisions](LOG.md#decisions) | |
-| After approval | Video presenting the agreed requirements | [Video template](TEMPLATES.md#monthly-video) · [Deliverables](LOG.md#deliverables) | |
+| Next | Email requirements to the client for approval | [Specification](SPECIFICATION.md) | |
+| Before the video | Client approves → requirements sealed (approval email logged) | [Decisions](LOG.md#decisions) | |
+| **9 Nov 16:00** | Video presenting the agreed requirements due | [Video template](TEMPLATES.md#monthly-video) · [Deliverables](LOG.md#deliverables) | |
 | Nov | Submit requirements & design | [Specification](SPECIFICATION.md) | **5%** |
 | Nov–Dec | Data + baselines + TabPFN + agent v1 → **Prototype 1** | [Anomaly detection](anomaly-detection/README.md) · [Meta-statistician](metastatician/README.md) | |
 | Jan, term 2 week 1 | Prototype 1 demoed to client | [Deliverables](LOG.md#deliverables) | |
